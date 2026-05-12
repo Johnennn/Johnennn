@@ -6,6 +6,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=900&height=80&lines=Hola+Soy+Nicol%C3%A1s+Johnen;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Aprendiendo+React+y+Vite;Bienvenido+A+Mi+GitHub" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=900&height=80&lines=Hola+Soy+Nicol%C3%A1s+Johnen;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Bienvenido+A+Mi+GitHub" />
 
 </div>
