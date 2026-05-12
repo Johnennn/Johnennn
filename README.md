@@ -14,19 +14,6 @@
 
 <div align="center">
 
-<img width="700" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23000000&qColor=%2300FF99&aColor=%2300FF99" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=1000&color=00FF99&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=220&lines=%24+cat+nicolas_johnen.py;{;++++%22name%22%3A+%22Nicol%C3%A1s+Johnen%22%2C;++++%22age%22%3A+21%2C;++++%22country%22%3A+%22Chile%22%2C;++++%22career%22%3A+%22Ingenier%C3%ADa+Inform%C3%A1tica%22%2C;++++%22status%22%3A+%22Estudiante%22;}" />
 
 </div>
-
-<div align="center">
-
-```bash
-$ cat nicolas_johnen.py
-
-{
-  "name": "Nicolás Johnen",
-  "age": 21,
-  "country": "Chile",
-  "career": "Ingeniería Informática",
-  "status": "Estudiante"
-}
