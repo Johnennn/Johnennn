@@ -1,25 +1,27 @@
-<h1 align="center">Hola 👋 Soy Nicolás</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Johnennn&fontSize=60&animation=fadeIn" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F0FF,50:8A2BE2,100:FF00FF&text=Johnennn&fontSize=70&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React%20%7C%20Vite&descAlignY=60"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Informática;Aprendiendo+React+y+Vite;Bienvenido+a+mi+perfil" />
-</p>
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Johnennn&show_icons=true&theme=tokyonight"/>
-</p>
+<h1 align="center">
+⚡ Welcome To My Profile ⚡
+</h1>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Johnennn&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Johnennn&theme=tokyo-night"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Hola+Soy+Nicol%C3%A1s;Frontend+Developer;React+%7C+Vite+%7C+JavaScript;Construyendo+Cosas+Cool;Bienvenido+A+Mi+GitHub" />
 
-<p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
-</p>
+</div>
+
+---
+
+# 💫 About Me
+
+```javascript
+const johnennn = {
+  location: "Chile",
+  learning: ["React", "Vite", "UI/UX"],
+  hobbies: ["Coding", "Gaming", "Music"],
+  goal: "Convertirme en desarrollador frontend"
+}
