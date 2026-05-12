@@ -16,7 +16,7 @@
 
 ---
 
-# 💫 About Me
+# Sobre Mí
 
 ```javascript
 const johnennn = {
