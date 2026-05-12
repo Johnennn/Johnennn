@@ -16,7 +16,7 @@
 
 ---
 
-# 💫 Sobre Mí
+# Sobre Mí
 
 ```javascript
 const nicolasJohnen = {
