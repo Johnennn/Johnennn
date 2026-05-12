@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00FF99,50:00CC66,100:000000&text=Nicolás%20Johnen&fontSize=65&fontColor=00FF99&fontAlignY=40&animation=fadeIn&desc=Estudiante%20de%20Ingeniería%20Informática&descAlignY=60&descColor=00FF99"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00FF99,50:00CC66,100:000000&text=Nicolás%20Johnen&fontSize=65&fontColor=00FF99&fontAlignY=50&animation=fadeIn"/>
 
 </div>
 
