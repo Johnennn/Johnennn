@@ -1,42 +1,36 @@
-<p align="center">
-<img src="https://media.tenor.com/x8v1oNUOmg4AAAAC/hatsune-miku.gif" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">
-🎤 ✨ HATSUNE MIKU OTAKU PROFILE ✨ 🎤
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00FF99,50:00CC66,100:000000&text=Nicolás%20Johnen&fontSize=65&fontColor=00FF99&fontAlignY=50&animation=fadeIn"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39C5BB&center=true&vCenter=true&width=900&lines=🌸+Welcome+to+my+GitHub+Profile+🌸;🎧+Hatsune+Miku+Enjoyer;💻+Coding+while+listening+Vocaloid;⚡+Anime+%2B+Programming+%2B+Gaming;✨+Full+Otaku+Developer+✨">
-</p>
+</div>
 
----
+<div align="center">
 
-<p align="center">
-<img src="https://media.tenor.com/1x6oX8-0jqkAAAAC/hatsune-miku-vocaloid.gif" width="300">
-<img src="https://media.tenor.com/LV5zJ8W4b7gAAAAC/miku-anime.gif" width="300">
-<img src="https://media.tenor.com/TnFjL5v8v6QAAAAC/hatsune-miku.gif" width="300">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=1800&pause=500&color=00FF99&center=true&vCenter=true&width=900&height=80&lines=Hola+Soy+Nicol%C3%A1s+Johnen;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Bienvenido+A+Mi+GitHub" />
 
----
+</div>
 
-# 🌸 About Me
+<br>
 
-```yaml
-name: Nicolás
-role: Informática Student
-vibes: Full Anime
-favorite_character: Hatsune Miku
+<div align="center">
 
-currently_learning:
-  - React
-  - Node.js
-  - MongoDB
-  - Three.js
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=600&pause=300&color=00FF99&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=220&lines=%3E+Mostrando+informaci%C3%B3n...;{;++++%22nombre%22%3A+%22Nicol%C3%A1s+Johnen%22%2C;++++%22edad%22%3A+21%2C;++++%22pa%C3%ADs%22%3A+%22Chile%22%2C;++++%22carrera%22%3A+%22Ingenier%C3%ADa+Inform%C3%A1tica%22%2C;++++%22estado%22%3A+%22Estudiante%22;}" />
 
-hobbies:
-  - Anime 🎌
-  - Vocaloid 🎤
-  - Gaming 🎮
-  - Coding 💻
-  - Music 🎧
+</div>
+
+<br>
+
+<h2 align="center">🏆 GitHub Achievements 🏆</h2>
+
+<div align="center">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90"/>
+
+</div>
+
