@@ -20,40 +20,18 @@
 
 <br>
 
-<h2 align="center">🏆 Achievements 🏆</h2>
+<h2 align="center">🏅 Certifications & Achievements 🏅</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Johnennn&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/Git-GitHub%20Workflow-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<br>
+<img src="https://img.shields.io/badge/MongoDB-Database%20Modeling-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<h2 align="center">⚡ Tech Stack ⚡</h2>
+<img src="https://img.shields.io/badge/Linux-Terminal%20Basics-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,git,github,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnennn&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnennn&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Johnennn&bg_color=000000&color=00ff99&line=00ff99&point=ffffff&hide_border=true"/>
+<img src="https://img.shields.io/badge/VSCode-Development%20Environment-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
