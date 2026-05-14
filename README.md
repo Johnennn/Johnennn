@@ -20,8 +20,40 @@
 
 <br>
 
+<h2 align="center">🏆 Achievements 🏆</h2>
+
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/77/f2/5f/77f25f9f4a4c0a6e2c6c4f6d0d5b8c1f.gif" width="320"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Johnennn&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+
+</div>
+
+<br>
+
+<h2 align="center">⚡ Tech Stack ⚡</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,git,github,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnennn&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnennn&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Johnennn&bg_color=000000&color=00ff99&line=00ff99&point=ffffff&hide_border=true"/>
 
 </div>
