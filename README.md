@@ -20,18 +20,6 @@
 
 <br>
 
-<h2 align="center">🏆 GitHub Achievements 🏆</h2>
-
-<div align="center">
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90"/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90"/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90"/>
-
 </div>
 
 
