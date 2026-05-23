@@ -8,9 +8,3 @@
 <img 
   src="https://media.tenor.com/R4n7Nlsdg9kAAAAi/uhm-scary.gif" 
   width="100%"
-
-  style="
-    border-radius: 12px;
-    box-shadow: 0 0 30px rgba(255,0,0,0.35);
-  "
->
